@@ -1,7 +1,7 @@
 public class ApplicationForm {
 // ApexPages.StandardSetController must be instantiated
     // for standard list controllers
-
+//edit 
     public ApexPages.StandardSetController setCon {
 
         get {
